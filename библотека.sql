@@ -1,4 +1,4 @@
-
+вркаенроанонгопр сиичп
 
 
 Use Were;
@@ -66,3 +66,4 @@ Values (Sherlock Holmes Adventures The Hound ofthe Baskervilles, Artur ConanDoil
 Insert Into IssuedBook (BookId, RaederId, IssuedDate, ReturnDate)
 
 Values ()
+
