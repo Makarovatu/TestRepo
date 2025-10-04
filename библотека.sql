@@ -1,3 +1,6 @@
+
+
+
 Use Were;
 
 Create Table Genre
@@ -61,4 +64,5 @@ Values (978-3-16-148410-0, The MasterandMargarita, Mikhail Bulgakov, Novel, 1967
 Insert Into Books (NameBook, AuthorBook, Genre, YPublic, Availabil)
 Values (Sherlock Holmes Adventures The Hound ofthe Baskervilles, Artur ConanDoil, Detective, 1901, Null);
 Insert Into IssuedBook (BookId, RaederId, IssuedDate, ReturnDate)
+
 Values ()
